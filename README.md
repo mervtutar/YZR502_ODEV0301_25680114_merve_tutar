@@ -4,6 +4,8 @@
 
 Bu proje, bir mobil robotun doğrusal hızının P, PI, PD ve PID denetleyicileri ile kontrol edilmesini inceleyen bir Python simülasyon çalışmasıdır.
 
+Youtube Link : https://youtu.be/TIv9l4stXiI
+
 Projede aşağıdaki senaryolar ele alınmıştır:
 - 1 m/s sabit referans hız takibi
 - P, PI, PD ve PID denetleyicilerinin karşılaştırılması

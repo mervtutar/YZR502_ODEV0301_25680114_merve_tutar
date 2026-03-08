@@ -1,0 +1,11 @@
+TABLO 1 - PERFORMANS METRİKLERİ
+Denetleyici   Kp   Ki  Kd  Yükselme Süresi (s)  Yerleşme Süresi (s)  Aşma (%)  Kalıcı Durum Hatası (m/s)
+          P 20.0  0.0 0.0                  NaN                  NaN  0.000000                   0.200000
+         PI 20.0 20.0 0.0                 0.76                 3.45  7.137399                   0.000002
+         PD 20.0  0.0 5.0                  NaN                  NaN  0.000000                   0.200000
+        PID 30.0 15.0 3.0                 0.85                 1.31  1.869611                   0.000423
+
+TABLO 2 - EK SENARYOLAR
+          Senaryo                        Metrik 1                     Metrik 2             Metrik 3
+      Bozucu Etki     Maksimum sapma = 0.1251 m/s Toparlanma süresi = 0.7400 s Son hız = 0.9967 m/s
+Referans Değişimi Yeni yerleşme süresi = 1.6400 s      Alttan taşma = 0.0546 % Son hız = 0.4997 m/s
